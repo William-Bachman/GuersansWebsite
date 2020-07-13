@@ -1,0 +1,95 @@
+﻿@model System.Collections.Generic.List< GMvcWebsite.Models.Characters>
+
+@{
+    ViewBag.Title = "Wrestlers";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+<head>
+
+    <style>
+
+        .table-wrapper {
+            margin-left: auto;
+            margin-right: auto;
+            overflow: hidden;
+        }
+
+        table {
+            border: 1px solid black;
+            margin-right: 20px;
+            margin-left: auto;
+            margin-right: auto;
+            border-spacing: 10px;
+        }
+
+        td {
+            min-width: 50px;
+            height: 20px;
+            padding: 15px;
+        }
+    </style>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/bootbox.js/4.4.0/bootbox.min.js"></script>
+
+
+
+</head>
+<body>
+
+    <!-- Slider -->
+
+
+
+
+    <table style="width:auto;">
+        @{
+            //repeatdirection = Horizontal, RepeatColumns = 4
+            const int NumberOfColumns = 5;
+            int skip = 0;
+            var items = Model.Skip(skip).Take(NumberOfColumns);
+            while (items.Count() > 0)
+            {
+                <tr>
+                    @foreach (var item in items)
+                    {
+                        <td>
+                            <table class="thumbmain">
+                                <tr>
+                                    <td>
+                                        <a class="anchorDetail" data-toggle="modal" id="btnDetail" data-id='@item.CharacterName' onclick="createModal('@Url.Action("WrestlerDetails", "Home" , new {id=item.CharacterName})')">
+                                            <img src="@item.ImageUrl" width="300" height="300" class="imageclass" />
+                                        </a>
+
+
+                                    </td>
+                                </tr>
+                            </table>
+                        </td>
+                    }
+                </tr>
+                skip += NumberOfColumns;
+                items = Model.Skip(skip).Take(NumberOfColumns);
+            }
+        }
+    </table>
+    <div class="modal fade" id="myModal" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true" data-backdrop="static" data-keyboard="false">
+        <div class="modal-dialog">
+            <div class="modal-content" id="modelContent">
+            </div>
+        </div>
+    </div>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/bootbox.js/4.4.0/bootbox.min.js"></script>
+        <script src="http://ajax.microsoft.com/ajax/jquery/jquery-1.4.2.js" type="text/javascript"></script>
+        <script>
+
+                function createModal(url){
+                    $('#modelContent').load(url);
+                $('#myModal').modal('show');
+          }
+        </script>
+
+   
+
+</body>
+
+
+

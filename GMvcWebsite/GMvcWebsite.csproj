@@ -1,0 +1,504 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>
+    </ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{7F88E760-CFA0-4D95-ACD2-3CB76C9E4AE2}</ProjectGuid>
+    <ProjectTypeGuids>{349c5851-65df-11da-9384-00065b846f21};{fae04ec0-301f-11d3-bf4b-00c04f79efbc}</ProjectTypeGuids>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>GMvcWebsite</RootNamespace>
+    <AssemblyName>GMvcWebsite</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <MvcBuildViews>false</MvcBuildViews>
+    <UseIISExpress>true</UseIISExpress>
+    <IISExpressSSLPort />
+    <IISExpressAnonymousAuthentication />
+    <IISExpressWindowsAuthentication />
+    <IISExpressUseClassicPipelineMode />
+    <Use64BitIISExpress />
+    <UseGlobalApplicationHostFile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Web.DynamicData" />
+    <Reference Include="System.Web.Entity" />
+    <Reference Include="System.Web.ApplicationServices" />
+    <Reference Include="System.ComponentModel.DataAnnotations" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Web.Extensions" />
+    <Reference Include="System.Web.Abstractions" />
+    <Reference Include="System.Web.Routing" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.EnterpriseServices" />
+    <Reference Include="Microsoft.Web.Infrastructure, Version=1.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <Private>True</Private>
+      <HintPath>..\packages\Microsoft.Web.Infrastructure.1.0.0.0\lib\net40\Microsoft.Web.Infrastructure.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Net.Http">
+    </Reference>
+    <Reference Include="System.Net.Http.WebRequest">
+    </Reference>
+    <Reference Include="System.Web.Helpers, Version=3.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <Private>True</Private>
+      <HintPath>..\packages\Microsoft.AspNet.WebPages.3.0.0\lib\net45\System.Web.Helpers.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Web.Mvc, Version=5.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <Private>True</Private>
+      <HintPath>..\packages\Microsoft.AspNet.Mvc.5.0.0\lib\net45\System.Web.Mvc.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Web.Optimization">
+      <HintPath>..\packages\Microsoft.AspNet.Web.Optimization.1.1.1\lib\net40\System.Web.Optimization.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Web.Razor, Version=3.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <Private>True</Private>
+      <HintPath>..\packages\Microsoft.AspNet.Razor.3.0.0\lib\net45\System.Web.Razor.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Web.WebPages, Version=3.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <Private>True</Private>
+      <HintPath>..\packages\Microsoft.AspNet.WebPages.3.0.0\lib\net45\System.Web.WebPages.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Web.WebPages.Deployment, Version=3.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <Private>True</Private>
+      <HintPath>..\packages\Microsoft.AspNet.WebPages.3.0.0\lib\net45\System.Web.WebPages.Deployment.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Web.WebPages.Razor, Version=3.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <Private>True</Private>
+      <HintPath>..\packages\Microsoft.AspNet.WebPages.3.0.0\lib\net45\System.Web.WebPages.Razor.dll</HintPath>
+    </Reference>
+    <Reference Include="Newtonsoft.Json">
+      <Private>True</Private>
+      <HintPath>..\packages\Newtonsoft.Json.5.0.6\lib\net45\Newtonsoft.Json.dll</HintPath>
+    </Reference>
+    <Reference Include="WebGrease">
+      <Private>True</Private>
+      <HintPath>..\packages\WebGrease.1.5.2\lib\WebGrease.dll</HintPath>
+    </Reference>
+    <Reference Include="Antlr3.Runtime">
+      <Private>True</Private>
+      <HintPath>..\packages\Antlr.3.4.1.9004\lib\Antlr3.Runtime.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Reference Include="EntityFramework">
+      <HintPath>..\packages\EntityFramework.6.0.0\lib\net45\EntityFramework.dll</HintPath>
+    </Reference>
+    <Reference Include="EntityFramework.SqlServer">
+      <HintPath>..\packages\EntityFramework.6.0.0\lib\net45\EntityFramework.SqlServer.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.AspNet.Identity.Core">
+      <HintPath>..\packages\Microsoft.AspNet.Identity.Core.1.0.0\lib\net45\Microsoft.AspNet.Identity.Core.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.AspNet.Identity.Owin">
+      <HintPath>..\packages\Microsoft.AspNet.Identity.Owin.1.0.0\lib\net45\Microsoft.AspNet.Identity.Owin.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.AspNet.Identity.EntityFramework">
+      <HintPath>..\packages\Microsoft.AspNet.Identity.EntityFramework.1.0.0\lib\net45\Microsoft.AspNet.Identity.EntityFramework.dll</HintPath>
+    </Reference>
+    <Reference Include="Owin">
+      <HintPath>..\packages\Owin.1.0\lib\net40\Owin.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Owin">
+      <HintPath>..\packages\Microsoft.Owin.2.0.0\lib\net45\Microsoft.Owin.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Owin.Host.SystemWeb">
+      <HintPath>..\packages\Microsoft.Owin.Host.SystemWeb.2.0.0\lib\net45\Microsoft.Owin.Host.SystemWeb.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Owin.Security">
+      <HintPath>..\packages\Microsoft.Owin.Security.2.0.0\lib\net45\Microsoft.Owin.Security.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Owin.Security.Facebook">
+      <HintPath>..\packages\Microsoft.Owin.Security.Facebook.2.0.0\lib\net45\Microsoft.Owin.Security.Facebook.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Owin.Security.Cookies">
+      <HintPath>..\packages\Microsoft.Owin.Security.Cookies.2.0.0\lib\net45\Microsoft.Owin.Security.Cookies.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Owin.Security.OAuth">
+      <HintPath>..\packages\Microsoft.Owin.Security.OAuth.2.0.0\lib\net45\Microsoft.Owin.Security.OAuth.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Owin.Security.Google">
+      <HintPath>..\packages\Microsoft.Owin.Security.Google.2.0.0\lib\net45\Microsoft.Owin.Security.Google.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Owin.Security.Twitter">
+      <HintPath>..\packages\Microsoft.Owin.Security.Twitter.2.0.0\lib\net45\Microsoft.Owin.Security.Twitter.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Owin.Security.MicrosoftAccount">
+      <HintPath>..\packages\Microsoft.Owin.Security.MicrosoftAccount.2.0.0\lib\net45\Microsoft.Owin.Security.MicrosoftAccount.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="App_Start\FilterConfig.cs" />
+    <Compile Include="App_Start\RouteConfig.cs" />
+    <Compile Include="App_Start\Startup.Auth.cs" />
+    <Compile Include="Context\ApplicationDataContext.cs" />
+    <Compile Include="Controllers\HomeController.cs" />
+    <Compile Include="Global.asax.cs">
+      <DependentUpon>Global.asax</DependentUpon>
+    </Compile>
+    <Compile Include="Models\CharacterMovesets.cs" />
+    <Compile Include="Models\Characters.cs" />
+    <Compile Include="Models\IdentityModels.cs" />
+    <Compile Include="Models\TierListModel.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Startup.cs" />
+    <Compile Include="ViewModels\AccountViewModels.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="css\bootstrap-theme.css" />
+    <Content Include="css\bootstrap-theme.min.css" />
+    <Content Include="css\bootstrap.css" />
+    <Content Include="css\bootstrap.min.css" />
+    <Content Include="css\carousel.css" />
+    <Content Include="css\style.css" />
+    <Content Include="favicon.ico" />
+    <Content Include="fonts\glyphicons-halflings-regular.svg" />
+    <Content Include="Global.asax" />
+    <Content Include="images\Champions-Logo-15perc.png" />
+    <Content Include="images\championslogo2020.png" />
+    <Content Include="images\Class Logos\AcroLogo.png" />
+    <Content Include="images\Class Logos\PhLogo.png" />
+    <Content Include="images\Class Logos\SBLogo.png" />
+    <Content Include="images\Class Logos\StrikerLogo.png" />
+    <Content Include="images\Class Logos\TechLogo.png" />
+    <Content Include="images\Class Logos\TrickLogo.png" />
+    <Content Include="images\Logo-Full.png" />
+    <Content Include="images\Logo-Title.png" />
+    <Content Include="images\Logo.png" />
+    <Content Include="images\Rated-G.png" />
+    <Content Include="js\bootstrap.js" />
+    <Content Include="js\bootstrap.min.js" />
+    <Content Include="Posters\ACRO-AJStyles.png" />
+    <Content Include="Posters\ACRO-AkiraTozawa.png" />
+    <Content Include="Posters\ACRO-AlexaBliss.png" />
+    <Content Include="Posters\ACRO-AndradeAlmas.png" />
+    <Content Include="Posters\ACRO-Bayley.png" />
+    <Content Include="Posters\ACRO-ChrisJericho.png" />
+    <Content Include="Posters\ACRO-Christian.png" />
+    <Content Include="Posters\ACRO-DanielBryan.png" />
+    <Content Include="Posters\ACRO-DarrenYoung.png" />
+    <Content Include="Posters\ACRO-DolphZiggler.png" />
+    <Content Include="Posters\ACRO-EddieGuerrero.png" />
+    <Content Include="Posters\ACRO-Edge.png" />
+    <Content Include="Posters\ACRO-EmberMoon.png" />
+    <Content Include="Posters\ACRO-FinnBalor.png" />
+    <Content Include="Posters\ACRO-JimmyUso.png" />
+    <Content Include="Posters\ACRO-JohnCena.png" />
+    <Content Include="Posters\ACRO-KofiKingston.png" />
+    <Content Include="Posters\ACRO-Lita.png" />
+    <Content Include="Posters\ACRO-MachoMan.png" />
+    <Content Include="Posters\ACRO-Naomi.png" />
+    <Content Include="Posters\ACRO-Neville.png" />
+    <Content Include="Posters\ACRO-RickySteamboat.png" />
+    <Content Include="Posters\ACRO-Ricochet.png" />
+    <Content Include="Posters\ACRO-RVD.png" />
+    <Content Include="Posters\ACRO-SamiZayn.png" />
+    <Content Include="Posters\ACRO-SethRollins.png" />
+    <Content Include="Posters\ACRO-SinCara.png" />
+    <Content Include="Posters\ACRO-Stinger.png" />
+    <Content Include="Posters\ACRO-TripleH.png" />
+    <Content Include="Posters\ACRO-Undertaker.png" />
+    <Content Include="Posters\ACRO-XPac.png" />
+    <Content Include="Posters\PH-BamBamBigelow.png" />
+    <Content Include="Posters\PH-Batista.png" />
+    <Content Include="Posters\PH-BigCass.png" />
+    <Content Include="Posters\PH-BigJohnStudd.png" />
+    <Content Include="Posters\PH-BraunStrowman.png" />
+    <Content Include="Posters\PH-BrieBella.png" />
+    <Content Include="Posters\PH-BritishBulldog.png" />
+    <Content Include="Posters\PH-BrockLesnar.png" />
+    <Content Include="Posters\PH-CharlotteFlair.png" />
+    <Content Include="Posters\PH-Chyna.png" />
+    <Content Include="Posters\PH-DrewMcIntyre.png" />
+    <Content Include="Posters\PH-Earthquake.png" />
+    <Content Include="Posters\PH-ErickRowan.jpg" />
+    <Content Include="Posters\PH-Giant.png" />
+    <Content Include="Posters\PH-Goldberg.png" />
+    <Content Include="Posters\PH-HulkHogan.png" />
+    <Content Include="Posters\PH-IronSheik.png" />
+    <Content Include="Posters\PH-JohnCena.png" />
+    <Content Include="Posters\PH-Kane.png" />
+    <Content Include="Posters\PH-KevinNash.png" />
+    <Content Include="Posters\PH-LexLuger.png" />
+    <Content Include="Posters\PH-LukeHarper.png" />
+    <Content Include="Posters\PH-MachoMan.png" />
+    <Content Include="Posters\PH-MarkHenry.png" />
+    <Content Include="Posters\PH-NiaJax.png" />
+    <Content Include="Posters\PH-Rock.png" />
+    <Content Include="Posters\PH-RomanReigns.png" />
+    <Content Include="Posters\PH-Rusev.png" />
+    <Content Include="Posters\PH-Ryback.png" />
+    <Content Include="Posters\PH-ScottHall.png" />
+    <Content Include="Posters\PH-SheltonBenjamin.png" />
+    <Content Include="Posters\PH-TitusOneil.png" />
+    <Content Include="Posters\PH-TripleH.png" />
+    <Content Include="Posters\PH-UltimateWarrior.png" />
+    <Content Include="Posters\PH-Undertaker.png" />
+    <Content Include="Posters\PH-Vader.png" />
+    <Content Include="Posters\PH-VelveteenDream.png" />
+    <Content Include="Posters\PH-WadeBarrett.png" />
+    <Content Include="Posters\SHO-AJStyles.png" />
+    <Content Include="Posters\SHO-Andre.png" />
+    <Content Include="Posters\SHO-BigE.png" />
+    <Content Include="Posters\SHO-BigShow.png" />
+    <Content Include="Posters\SHO-BobbyRoode.png" />
+    <Content Include="Posters\SHO-BookerT.png" />
+    <Content Include="Posters\SHO-BrieBella.png" />
+    <Content Include="Posters\SHO-BrutusBeefcake.png" />
+    <Content Include="Posters\SHO-BubbaRayDudley.png" />
+    <Content Include="Posters\SHO-CharlotteFlair.png" />
+    <Content Include="Posters\SHO-CurtHennig.png" />
+    <Content Include="Posters\SHO-DDP.png" />
+    <Content Include="Posters\SHO-Diesel.png" />
+    <Content Include="Posters\SHO-DolphZiggler.png" />
+    <Content Include="Posters\SHO-DustyRhodes.png" />
+    <Content Include="Posters\SHO-EnzoAmore.png" />
+    <Content Include="Posters\SHO-Fandango.png" />
+    <Content Include="Posters\SHO-Godfather.png" />
+    <Content Include="Posters\SHO-Hacksaw.png" />
+    <Content Include="Posters\SHO-JasonJordan.png" />
+    <Content Include="Posters\SHO-JohnCena.png" />
+    <Content Include="Posters\SHO-JunkyardDog.png" />
+    <Content Include="Posters\SHO-Kane.png" />
+    <Content Include="Posters\SHO-MachoMan.png" />
+    <Content Include="Posters\SHO-Mankind.png" />
+    <Content Include="Posters\SHO-MattHardy.png" />
+    <Content Include="Posters\SHO-Paige.png" />
+    <Content Include="Posters\SHO-RandyOrton.png" />
+    <Content Include="Posters\SHO-RicFlair.png" />
+    <Content Include="Posters\SHO-Ricochet.png" />
+    <Content Include="Posters\SHO-Rikishi.png" />
+    <Content Include="Posters\SHO-Rock.png" />
+    <Content Include="Posters\SHO-SashaBanks.png" />
+    <Content Include="Posters\SHO-ShaneMcMahon.png" />
+    <Content Include="Posters\SHO-ShawnMichaels.png" />
+    <Content Include="Posters\SHO-SteveAustin.png" />
+    <Content Include="Posters\SHO-Sting.png" />
+    <Content Include="Posters\SHO-TheFiend.png" />
+    <Content Include="Posters\SHO-TripleH.png" />
+    <Content Include="Posters\SHO-Typhoon.png" />
+    <Content Include="Posters\SHO-UltimateWarrior.png" />
+    <Content Include="Posters\SHO-Undertaker.png" />
+    <Content Include="Posters\SHO-WendiRichter.png" />
+    <Content Include="Posters\SHO-Yokozuna.png" />
+    <Content Include="Posters\STK-AleisterBlack.png" />
+    <Content Include="Posters\STK-Anvil.png" />
+    <Content Include="Posters\STK-BaronCorbin.png" />
+    <Content Include="Posters\STK-BigBossman.png" />
+    <Content Include="Posters\STK-BookerT.png" />
+    <Content Include="Posters\STK-BrayWyatt.png" />
+    <Content Include="Posters\STK-BretHart.png" />
+    <Content Include="Posters\STK-BrockLesnar.png" />
+    <Content Include="Posters\STK-DeanAmbrose.png" />
+    <Content Include="Posters\STK-DudeLove.png" />
+    <Content Include="Posters\STK-DvonDudley.png" />
+    <Content Include="Posters\STK-FinnBalor.png" />
+    <Content Include="Posters\STK-JohnCena.png" />
+    <Content Include="Posters\STK-Kane.png" />
+    <Content Include="Posters\STK-KarlAnderson.png" />
+    <Content Include="Posters\STK-KenShamrock.png" />
+    <Content Include="Posters\STK-KevinNash.png" />
+    <Content Include="Posters\STK-KevinOwens.png" />
+    <Content Include="Posters\STK-LukeHarper.jpg" />
+    <Content Include="Posters\STK-MisterT.png" />
+    <Content Include="Posters\STK-NikolaiVolkoff.png" />
+    <Content Include="Posters\STK-Paige.png" />
+    <Content Include="Posters\STK-PapaShango.png" />
+    <Content Include="Posters\STK-RicFlair.png" />
+    <Content Include="Posters\STK-RickySteamboat.png" />
+    <Content Include="Posters\STK-Rock.png" />
+    <Content Include="Posters\STK-RondaRousey.png" />
+    <Content Include="Posters\STK-ScottHall.png" />
+    <Content Include="Posters\STK-SethRollins.png" />
+    <Content Include="Posters\STK-SgtSlaughterHOF.png" />
+    <Content Include="Posters\STK-ShinsukeNakamura.png" />
+    <Content Include="Posters\STK-Sting.png" />
+    <Content Include="Posters\STK-SychoSid.png" />
+    <Content Include="Posters\STK-TedDiBiase.png" />
+    <Content Include="Posters\STK-TripleH.png" />
+    <Content Include="Posters\STK-TrishStratus.png" />
+    <Content Include="Posters\STK-Tyler-Breeze.png" />
+    <Content Include="Posters\STK-Undertaker.png" />
+    <Content Include="Posters\STK-VinceMcMahon.png" />
+    <Content Include="Posters\TECH-AlbertoDelRio.png" />
+    <Content Include="Posters\TECH-AleisterBlack.png" />
+    <Content Include="Posters\TECH-Asuka.png" />
+    <Content Include="Posters\TECH-BookerT.png" />
+    <Content Include="Posters\TECH-BretHart.png" />
+    <Content Include="Posters\TECH-BrunoSammartino.png" />
+    <Content Include="Posters\TECH-Cesaro.png" />
+    <Content Include="Posters\TECH-ChadGable.png" />
+    <Content Include="Posters\TECH-ChrisJericho.png" />
+    <Content Include="Posters\TECH-DDP.png" />
+    <Content Include="Posters\TECH-DeanAmbrose.png" />
+    <Content Include="Posters\TECH-Doink.png" />
+    <Content Include="Posters\TECH-EddieGuerrero.png" />
+    <Content Include="Posters\TECH-FinnBalor.png" />
+    <Content Include="Posters\TECH-Goldust.png" />
+    <Content Include="Posters\TECH-JakeTheSnake.png" />
+    <Content Include="Posters\TECH-JohnnyGargano.png" />
+    <Content Include="Posters\TECH-KevinOwens.png" />
+    <Content Include="Posters\TECH-KofiKingston.png" />
+    <Content Include="Posters\TECH-KurtAngle.png" />
+    <Content Include="Posters\TECH-Lita.png" />
+    <Content Include="Posters\TECH-PaulOrndorff.png" />
+    <Content Include="Posters\TECH-RandyOrton.png" />
+    <Content Include="Posters\TECH-RickRude.png" />
+    <Content Include="Posters\TECH-SamoaJoe.png" />
+    <Content Include="Posters\TECH-ShawnMichaels.png" />
+    <Content Include="Posters\TECH-Stardust.png" />
+    <Content Include="Posters\TECH-Sting.png" />
+    <Content Include="Posters\TECH-TedDiBiase.png" />
+    <Content Include="Posters\TECH-TommasoCiampa.png" />
+    <Content Include="Posters\TECH-TripleH.png" />
+    <Content Include="Posters\TECH-Undertaker.png" />
+    <Content Include="Posters\TRK-Andre.png" />
+    <Content Include="Posters\TRK-ArnAnderson.png" />
+    <Content Include="Posters\TRK-BigE.png" />
+    <Content Include="Posters\TRK-BigShow.png" />
+    <Content Include="Posters\TRK-Bradshaw.png" />
+    <Content Include="Posters\TRK-BrayWyatt.png" />
+    <Content Include="Posters\TRK-BretHart.png" />
+    <Content Include="Posters\TRK-BrockLesnar.png" />
+    <Content Include="Posters\TRK-CactusJack.png" />
+    <Content Include="Posters\TRK-DanielBryan.png" />
+    <Content Include="Posters\TRK-DeanAmbrose.png" />
+    <Content Include="Posters\TRK-EddieGuerrero.png" />
+    <Content Include="Posters\TRK-Elias.png" />
+    <Content Include="Posters\TRK-Faarooq.png" />
+    <Content Include="Posters\TRK-GeargeSteele.png" />
+    <Content Include="Posters\TRK-GregValentine.png" />
+    <Content Include="Posters\TRK-HonkyTonkMan.png" />
+    <Content Include="Posters\TRK-HulkHogan.png" />
+    <Content Include="Posters\TRK-IRS.png" />
+    <Content Include="Posters\TRK-JerryLawler.png" />
+    <Content Include="Posters\TRK-JinderMahal.png" />
+    <Content Include="Posters\TRK-JohnCena.png" />
+    <Content Include="Posters\TRK-KairiSane.png" />
+    <Content Include="Posters\TRK-Kane.png" />
+    <Content Include="Posters\TRK-KevinOwens.png" />
+    <Content Include="Posters\TRK-LukeGallows.png" />
+    <Content Include="Posters\TRK-MattHardy.png" />
+    <Content Include="Posters\TRK-Miz.png" />
+    <Content Include="Posters\TRK-Natalia.png" />
+    <Content Include="Posters\TRK-NikkiBella.png" />
+    <Content Include="Posters\TRK-RazorRamon.png" />
+    <Content Include="Posters\TRK-RicFlair.png" />
+    <Content Include="Posters\TRK-Rock.png" />
+    <Content Include="Posters\TRK-RomanReigns.png" />
+    <Content Include="Posters\TRK-Sarge.png" />
+    <Content Include="Posters\TRK-SashaBanks.png" />
+    <Content Include="Posters\TRK-SethRollins.png" />
+    <Content Include="Posters\TRK-Sheamus.png" />
+    <Content Include="Posters\TRK-ShinsukeNakamura.png" />
+    <Content Include="Posters\TRK-StephanieMcMahon.png" />
+    <Content Include="Posters\TRK-Undertaker.png" />
+    <Content Include="Posters\TRK-VelveteenDream.png" />
+    <Content Include="Posters\TRK-XavierWoods.png" />
+    <Content Include="Videos\zz-Intro.mp4" />
+    <Content Include="Web.config" />
+    <Content Include="Web.Debug.config">
+      <DependentUpon>Web.config</DependentUpon>
+    </Content>
+    <Content Include="Web.Release.config">
+      <DependentUpon>Web.config</DependentUpon>
+    </Content>
+    <Content Include="Views\Web.config" />
+    <Content Include="Views\_ViewStart.cshtml" />
+    <Content Include="Views\Shared\Error.cshtml" />
+    <Content Include="Views\Shared\_Layout.cshtml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="App_Data\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="packages.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="fonts\glyphicons-halflings-regular.eot" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="fonts\glyphicons-halflings-regular.ttf" />
+    <Content Include="fonts\glyphicons-halflings-regular.woff" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Views\Home\Index.cshtml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="JsonFiles\characters.json" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Views\Home\Wrestlers.cshtml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Views\Home\CharactersByClass.cshtml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Views\Home\TestCard.cshtml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Views\Home\WrestlerDetails.cshtml" />
+  </ItemGroup>
+  <PropertyGroup>
+    <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
+    <VSToolsPath Condition="'$(VSToolsPath)' == ''">$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)</VSToolsPath>
+  </PropertyGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <Import Project="$(VSToolsPath)\WebApplications\Microsoft.WebApplication.targets" Condition="'$(VSToolsPath)' != ''" />
+  <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v10.0\WebApplications\Microsoft.WebApplication.targets" Condition="false" />
+  <Target Name="MvcBuildViews" AfterTargets="AfterBuild" Condition="'$(MvcBuildViews)'=='true'">
+    <AspNetCompiler VirtualPath="temp" PhysicalPath="$(WebProjectOutputDir)" />
+  </Target>
+  <ProjectExtensions>
+    <VisualStudio>
+      <FlavorProperties GUID="{349c5851-65df-11da-9384-00065b846f21}">
+        <WebProjectProperties>
+          <UseIIS>True</UseIIS>
+          <AutoAssignPort>True</AutoAssignPort>
+          <DevelopmentServerPort>0</DevelopmentServerPort>
+          <DevelopmentServerVPath>/</DevelopmentServerVPath>
+          <IISUrl>http://localhost:62945/</IISUrl>
+          <NTLMAuthentication>False</NTLMAuthentication>
+          <UseCustomServer>False</UseCustomServer>
+          <CustomServerUrl>
+          </CustomServerUrl>
+          <SaveServerSettingsInUserFile>False</SaveServerSettingsInUserFile>
+        </WebProjectProperties>
+      </FlavorProperties>
+    </VisualStudio>
+  </ProjectExtensions>
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it.
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target> -->
+</Project>

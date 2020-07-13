@@ -1,0 +1,1818 @@
+[
+  {
+    "classType": 0,
+    "CharacterName": "A J Styles",
+    "AverageTierRanking": null,
+    "ImageUrl": "/Posters/ACRO-AJStyles.png",
+    "PictureFileName": "ACRO-AJStyles",
+    "ReccomndedMoveSet": "N/A"
+  },
+  {
+    "classType": 0,
+    "CharacterName": "Akira Tozawa",
+    "AverageTierRanking": null,
+    "ImageUrl": "/Posters/ACRO-AkiraTozawa.png",
+    "PictureFileName": "ACRO-AkiraTozawa",
+    "ReccomndedMoveSet": "N/A"
+  },
+  {
+    "classType": 0,
+    "CharacterName": "Alexa Bliss",
+    "AverageTierRanking": null,
+    "ImageUrl": "/Posters/ACRO-AlexaBliss.png",
+    "PictureFileName": "ACRO-AlexaBliss",
+    "ReccomndedMoveSet": "N/A"
+  },
+  {
+    "classType": 0,
+    "CharacterName": "Andrade Almas",
+    "AverageTierRanking": null,
+    "ImageUrl": "/Posters/ACRO-AndradeAlmas.png",
+    "PictureFileName": "ACRO-AndradeAlmas",
+    "ReccomndedMoveSet": "N/A"
+  },
+  {
+    "classType": 0,
+    "CharacterName": "Bayley",
+    "AverageTierRanking": null,
+    "ImageUrl": "/Posters/ACRO-Bayley.png",
+    "PictureFileName": "ACRO-Bayley",
+    "ReccomndedMoveSet": "N/A"
+  },
+  {
+    "classType": 0,
+    "CharacterName": "Chris Jericho",
+    "AverageTierRanking": null,
+    "ImageUrl": "/Posters/ACRO-ChrisJericho.png",
+    "PictureFileName": "ACRO-ChrisJericho",
+    "ReccomndedMoveSet": "N/A"
+  },
+  {
+    "classType": 0,
+    "CharacterName": "Christian",
+    "AverageTierRanking": null,
+    "ImageUrl": "/Posters/ACRO-Christian.png",
+    "PictureFileName": "ACRO-Christian",
+    "ReccomndedMoveSet": "N/A"
+  },
+  {
+    "classType": 0,
+    "CharacterName": "Daniel Bryan",
+    "AverageTierRanking": null,
+    "ImageUrl": "/Posters/ACRO-DanielBryan.png",
+    "PictureFileName": "ACRO-DanielBryan",
+    "ReccomndedMoveSet": "N/A"
+  },
+  {
+    "classType": 0,
+    "CharacterName": "Darren Young",
+    "AverageTierRanking": null,
+    "ImageUrl": "/Posters/ACRO-DarrenYoung.png",
+    "PictureFileName": "ACRO-DarrenYoung",
+    "ReccomndedMoveSet": "N/A"
+  },
+  {
+    "classType": 0,
+    "CharacterName": "Dolph Ziggler",
+    "AverageTierRanking": null,
+    "ImageUrl": "/Posters/ACRO-DolphZiggler.png",
+    "PictureFileName": "ACRO-DolphZiggler",
+    "ReccomndedMoveSet": "N/A"
+  },
+  {
+    "classType": 0,
+    "CharacterName": "Eddie Guerrero",
+    "AverageTierRanking": null,
+    "ImageUrl": "/Posters/ACRO-EddieGuerrero.png",
+    "PictureFileName": "ACRO-EddieGuerrero",
+    "ReccomndedMoveSet": "N/A"
+  },
+  {
+    "classType": 0,
+    "CharacterName": "Edge",
+    "AverageTierRanking": null,
+    "ImageUrl": "/Posters/ACRO-Edge.png",
+    "PictureFileName": "ACRO-Edge",
+    "ReccomndedMoveSet": "N/A"
+  },
+  {
+    "classType": 0,
+    "CharacterName": "Ember Moon",
+    "AverageTierRanking": null,
+    "ImageUrl": "/Posters/ACRO-EmberMoon.png",
+    "PictureFileName": "ACRO-EmberMoon",
+    "ReccomndedMoveSet": "N/A"
+  },
+  {
+    "classType": 0,
+    "CharacterName": "Finn Balor",
+    "AverageTierRanking": null,
+    "ImageUrl": "/Posters/ACRO-FinnBalor.png",
+    "PictureFileName": "ACRO-FinnBalor",
+    "ReccomndedMoveSet": "N/A"
+  },
+  {
+    "classType": 0,
+    "CharacterName": "Jimmy Uso",
+    "AverageTierRanking": null,
+    "ImageUrl": "/Posters/ACRO-JimmyUso.png",
+    "PictureFileName": "ACRO-JimmyUso",
+    "ReccomndedMoveSet": "N/A"
+  },
+  {
+    "classType": 0,
+    "CharacterName": "John Cena",
+    "AverageTierRanking": null,
+    "ImageUrl": "/Posters/ACRO-JohnCena.png",
+    "PictureFileName": "ACRO-JohnCena",
+    "ReccomndedMoveSet": "N/A"
+  },
+  {
+    "classType": 0,
+    "CharacterName": "Kofi Kingston",
+    "AverageTierRanking": null,
+    "ImageUrl": "/Posters/ACRO-KofiKingston.png",
+    "PictureFileName": "ACRO-KofiKingston",
+    "ReccomndedMoveSet": "N/A"
+  },
+  {
+    "classType": 0,
+    "CharacterName": "Lita",
+    "AverageTierRanking": null,
+    "ImageUrl": "/Posters/ACRO-Lita.png",
+    "PictureFileName": "ACRO-Lita",
+    "ReccomndedMoveSet": "N/A"
+  },
+  {
+    "classType": 0,
+    "CharacterName": "Macho Man",
+    "AverageTierRanking": null,
+    "ImageUrl": "/Posters/ACRO-MachoMan.png",
+    "PictureFileName": "ACRO-MachoMan",
+    "ReccomndedMoveSet": "N/A"
+  },
+  {
+    "classType": 0,
+    "CharacterName": "Naomi",
+    "AverageTierRanking": null,
+    "ImageUrl": "/Posters/ACRO-Naomi.png",
+    "PictureFileName": "ACRO-Naomi",
+    "ReccomndedMoveSet": "N/A"
+  },
+  {
+    "classType": 0,
+    "CharacterName": "Neville",
+    "AverageTierRanking": null,
+    "ImageUrl": "/Posters/ACRO-Neville.png",
+    "PictureFileName": "ACRO-Neville",
+    "ReccomndedMoveSet": "N/A"
+  },
+  {
+    "classType": 0,
+    "CharacterName": "Ricky Steamboat",
+    "AverageTierRanking": null,
+    "ImageUrl": "/Posters/ACRO-RickySteamboat.png",
+    "PictureFileName": "ACRO-RickySteamboat",
+    "ReccomndedMoveSet": "N/A"
+  },
+  {
+    "classType": 0,
+    "CharacterName": "Ricochet",
+    "AverageTierRanking": null,
+    "ImageUrl": "/Posters/ACRO-Ricochet.png",
+    "PictureFileName": "ACRO-Ricochet",
+    "ReccomndedMoveSet": "N/A"
+  },
+  {
+    "classType": 0,
+    "CharacterName": "R V D",
+    "AverageTierRanking": null,
+    "ImageUrl": "/Posters/ACRO-RVD.png",
+    "PictureFileName": "ACRO-RVD",
+    "ReccomndedMoveSet": "N/A"
+  },
+  {
+    "classType": 0,
+    "CharacterName": "Sami Zayn",
+    "AverageTierRanking": null,
+    "ImageUrl": "/Posters/ACRO-SamiZayn.png",
+    "PictureFileName": "ACRO-SamiZayn",
+    "ReccomndedMoveSet": "N/A"
+  },
+  {
+    "classType": 0,
+    "CharacterName": "Seth Rollins",
+    "AverageTierRanking": null,
+    "ImageUrl": "/Posters/ACRO-SethRollins.png",
+    "PictureFileName": "ACRO-SethRollins",
+    "ReccomndedMoveSet": "N/A"
+  },
+  {
+    "classType": 0,
+    "CharacterName": "Sin Cara",
+    "AverageTierRanking": null,
+    "ImageUrl": "/Posters/ACRO-SinCara.png",
+    "PictureFileName": "ACRO-SinCara",
+    "ReccomndedMoveSet": "N/A"
+  },
+  {
+    "classType": 0,
+    "CharacterName": "Stinger",
+    "AverageTierRanking": null,
+    "ImageUrl": "/Posters/ACRO-Stinger.png",
+    "PictureFileName": "ACRO-Stinger",
+    "ReccomndedMoveSet": "N/A"
+  },
+  {
+    "classType": 0,
+    "CharacterName": "Triple H",
+    "AverageTierRanking": null,
+    "ImageUrl": "/Posters/ACRO-TripleH.png",
+    "PictureFileName": "ACRO-TripleH",
+    "ReccomndedMoveSet": "N/A"
+  },
+  {
+    "classType": 0,
+    "CharacterName": "Undertaker",
+    "AverageTierRanking": null,
+    "ImageUrl": "/Posters/ACRO-Undertaker.png",
+    "PictureFileName": "ACRO-Undertaker",
+    "ReccomndedMoveSet": "N/A"
+  },
+  {
+    "classType": 0,
+    "CharacterName": "X Pac",
+    "AverageTierRanking": null,
+    "ImageUrl": "/Posters/ACRO-XPac.png",
+    "PictureFileName": "ACRO-XPac",
+    "ReccomndedMoveSet": "N/A"
+  },
+  {
+    "classType": 2,
+    "CharacterName": "Bam Bam Bigelow",
+    "AverageTierRanking": null,
+    "ImageUrl": "/Posters/PH-BamBamBigelow.png",
+    "PictureFileName": "PH-BamBamBigelow",
+    "ReccomndedMoveSet": "N/A"
+  },
+  {
+    "classType": 2,
+    "CharacterName": "Batista",
+    "AverageTierRanking": null,
+    "ImageUrl": "/Posters/PH-Batista.png",
+    "PictureFileName": "PH-Batista",
+    "ReccomndedMoveSet": "N/A"
+  },
+  {
+    "classType": 2,
+    "CharacterName": "Big Cass",
+    "AverageTierRanking": null,
+    "ImageUrl": "/Posters/PH-BigCass.png",
+    "PictureFileName": "PH-BigCass",
+    "ReccomndedMoveSet": "N/A"
+  },
+  {
+    "classType": 2,
+    "CharacterName": "Big John Studd",
+    "AverageTierRanking": null,
+    "ImageUrl": "/Posters/PH-BigJohnStudd.png",
+    "PictureFileName": "PH-BigJohnStudd",
+    "ReccomndedMoveSet": "N/A"
+  },
+  {
+    "classType": 2,
+    "CharacterName": "Braun Strowman",
+    "AverageTierRanking": null,
+    "ImageUrl": "/Posters/PH-BraunStrowman.png",
+    "PictureFileName": "PH-BraunStrowman",
+    "ReccomndedMoveSet": "N/A"
+  },
+  {
+    "classType": 2,
+    "CharacterName": "Brie Bella",
+    "AverageTierRanking": null,
+    "ImageUrl": "/Posters/PH-BrieBella.png",
+    "PictureFileName": "PH-BrieBella",
+    "ReccomndedMoveSet": "N/A"
+  },
+  {
+    "classType": 2,
+    "CharacterName": "British Bulldog",
+    "AverageTierRanking": null,
+    "ImageUrl": "/Posters/PH-BritishBulldog.png",
+    "PictureFileName": "PH-BritishBulldog",
+    "ReccomndedMoveSet": "N/A"
+  },
+  {
+    "classType": 2,
+    "CharacterName": "Brock Lesnar",
+    "AverageTierRanking": null,
+    "ImageUrl": "/Posters/PH-BrockLesnar.png",
+    "PictureFileName": "PH-BrockLesnar",
+    "ReccomndedMoveSet": "N/A"
+  },
+  {
+    "classType": 2,
+    "CharacterName": "Charlotte Flair",
+    "AverageTierRanking": null,
+    "ImageUrl": "/Posters/PH-CharlotteFlair.png",
+    "PictureFileName": "PH-CharlotteFlair",
+    "ReccomndedMoveSet": "N/A"
+  },
+  {
+    "classType": 2,
+    "CharacterName": "Chyna",
+    "AverageTierRanking": null,
+    "ImageUrl": "/Posters/PH-Chyna.png",
+    "PictureFileName": "PH-Chyna",
+    "ReccomndedMoveSet": "N/A"
+  },
+  {
+    "classType": 2,
+    "CharacterName": "Drew Mc Intyre",
+    "AverageTierRanking": null,
+    "ImageUrl": "/Posters/PH-DrewMcIntyre.png",
+    "PictureFileName": "PH-DrewMcIntyre",
+    "ReccomndedMoveSet": "N/A"
+  },
+  {
+    "classType": 2,
+    "CharacterName": "Earthquake",
+    "AverageTierRanking": null,
+    "ImageUrl": "/Posters/PH-Earthquake.png",
+    "PictureFileName": "PH-Earthquake",
+    "ReccomndedMoveSet": "N/A"
+  },
+  {
+    "classType": 2,
+    "CharacterName": "Erick Rowan",
+    "AverageTierRanking": null,
+    "ImageUrl": "/Posters/PH-ErickRowan.png",
+    "PictureFileName": "PH-ErickRowan",
+    "ReccomndedMoveSet": "N/A"
+  },
+  {
+    "classType": 2,
+    "CharacterName": "Giant",
+    "AverageTierRanking": null,
+    "ImageUrl": "/Posters/PH-Giant.png",
+    "PictureFileName": "PH-Giant",
+    "ReccomndedMoveSet": "N/A"
+  },
+  {
+    "classType": 2,
+    "CharacterName": "Goldberg",
+    "AverageTierRanking": null,
+    "ImageUrl": "/Posters/PH-Goldberg.png",
+    "PictureFileName": "PH-Goldberg",
+    "ReccomndedMoveSet": "N/A"
+  },
+  {
+    "classType": 2,
+    "CharacterName": "Hulk Hogan",
+    "AverageTierRanking": null,
+    "ImageUrl": "/Posters/PH-HulkHogan.png",
+    "PictureFileName": "PH-HulkHogan",
+    "ReccomndedMoveSet": "N/A"
+  },
+  {
+    "classType": 2,
+    "CharacterName": "Iron Sheik",
+    "AverageTierRanking": null,
+    "ImageUrl": "/Posters/PH-IronSheik.png",
+    "PictureFileName": "PH-IronSheik",
+    "ReccomndedMoveSet": "N/A"
+  },
+  {
+    "classType": 2,
+    "CharacterName": "John Cena",
+    "AverageTierRanking": null,
+    "ImageUrl": "/Posters/PH-JohnCena.png",
+    "PictureFileName": "PH-JohnCena",
+    "ReccomndedMoveSet": "N/A"
+  },
+  {
+    "classType": 2,
+    "CharacterName": "Kane",
+    "AverageTierRanking": null,
+    "ImageUrl": "/Posters/PH-Kane.png",
+    "PictureFileName": "PH-Kane",
+    "ReccomndedMoveSet": "N/A"
+  },
+  {
+    "classType": 2,
+    "CharacterName": "Kevin Nash",
+    "AverageTierRanking": null,
+    "ImageUrl": "/Posters/PH-KevinNash.png",
+    "PictureFileName": "PH-KevinNash",
+    "ReccomndedMoveSet": "N/A"
+  },
+  {
+    "classType": 2,
+    "CharacterName": "Lex Luger",
+    "AverageTierRanking": null,
+    "ImageUrl": "/Posters/PH-LexLuger.png",
+    "PictureFileName": "PH-LexLuger",
+    "ReccomndedMoveSet": "N/A"
+  },
+  {
+    "classType": 2,
+    "CharacterName": "Luke Harper",
+    "AverageTierRanking": null,
+    "ImageUrl": "/Posters/PH-LukeHarper.png",
+    "PictureFileName": "PH-LukeHarper",
+    "ReccomndedMoveSet": "N/A"
+  },
+  {
+    "classType": 2,
+    "CharacterName": "Macho Man",
+    "AverageTierRanking": null,
+    "ImageUrl": "/Posters/PH-MachoMan.png",
+    "PictureFileName": "PH-MachoMan",
+    "ReccomndedMoveSet": "N/A"
+  },
+  {
+    "classType": 2,
+    "CharacterName": "Mark Henry",
+    "AverageTierRanking": null,
+    "ImageUrl": "/Posters/PH-MarkHenry.png",
+    "PictureFileName": "PH-MarkHenry",
+    "ReccomndedMoveSet": "N/A"
+  },
+  {
+    "classType": 2,
+    "CharacterName": "Nia Jax",
+    "AverageTierRanking": null,
+    "ImageUrl": "/Posters/PH-NiaJax.png",
+    "PictureFileName": "PH-NiaJax",
+    "ReccomndedMoveSet": "N/A"
+  },
+  {
+    "classType": 2,
+    "CharacterName": "Rock",
+    "AverageTierRanking": null,
+    "ImageUrl": "/Posters/PH-Rock.png",
+    "PictureFileName": "PH-Rock",
+    "ReccomndedMoveSet": "N/A"
+  },
+  {
+    "classType": 2,
+    "CharacterName": "Roman Reigns",
+    "AverageTierRanking": null,
+    "ImageUrl": "/Posters/PH-RomanReigns.png",
+    "PictureFileName": "PH-RomanReigns",
+    "ReccomndedMoveSet": "N/A"
+  },
+  {
+    "classType": 2,
+    "CharacterName": "Rusev",
+    "AverageTierRanking": null,
+    "ImageUrl": "/Posters/PH-Rusev.png",
+    "PictureFileName": "PH-Rusev",
+    "ReccomndedMoveSet": "N/A"
+  },
+  {
+    "classType": 2,
+    "CharacterName": "Ryback",
+    "AverageTierRanking": null,
+    "ImageUrl": "/Posters/PH-Ryback.png",
+    "PictureFileName": "PH-Ryback",
+    "ReccomndedMoveSet": "N/A"
+  },
+  {
+    "classType": 2,
+    "CharacterName": "Scott Hall",
+    "AverageTierRanking": null,
+    "ImageUrl": "/Posters/PH-ScottHall.png",
+    "PictureFileName": "PH-ScottHall",
+    "ReccomndedMoveSet": "N/A"
+  },
+  {
+    "classType": 2,
+    "CharacterName": "Shelton Benjamin",
+    "AverageTierRanking": null,
+    "ImageUrl": "/Posters/PH-SheltonBenjamin.png",
+    "PictureFileName": "PH-SheltonBenjamin",
+    "ReccomndedMoveSet": "N/A"
+  },
+  {
+    "classType": 2,
+    "CharacterName": "Titus Oneil",
+    "AverageTierRanking": null,
+    "ImageUrl": "/Posters/PH-TitusOneil.png",
+    "PictureFileName": "PH-TitusOneil",
+    "ReccomndedMoveSet": "N/A"
+  },
+  {
+    "classType": 2,
+    "CharacterName": "Triple H",
+    "AverageTierRanking": null,
+    "ImageUrl": "/Posters/PH-TripleH.png",
+    "PictureFileName": "PH-TripleH",
+    "ReccomndedMoveSet": "N/A"
+  },
+  {
+    "classType": 2,
+    "CharacterName": "Ultimate Warrior",
+    "AverageTierRanking": null,
+    "ImageUrl": "/Posters/PH-UltimateWarrior.png",
+    "PictureFileName": "PH-UltimateWarrior",
+    "ReccomndedMoveSet": "N/A"
+  },
+  {
+    "classType": 2,
+    "CharacterName": "Undertaker",
+    "AverageTierRanking": null,
+    "ImageUrl": "/Posters/PH-Undertaker.png",
+    "PictureFileName": "PH-Undertaker",
+    "ReccomndedMoveSet": "N/A"
+  },
+  {
+    "classType": 2,
+    "CharacterName": "Vader",
+    "AverageTierRanking": null,
+    "ImageUrl": "/Posters/PH-Vader.png",
+    "PictureFileName": "PH-Vader",
+    "ReccomndedMoveSet": "N/A"
+  },
+  {
+    "classType": 2,
+    "CharacterName": "Velveteen Dream",
+    "AverageTierRanking": null,
+    "ImageUrl": "/Posters/PH-VelveteenDream.png",
+    "PictureFileName": "PH-VelveteenDream",
+    "ReccomndedMoveSet": "N/A"
+  },
+  {
+    "classType": 2,
+    "CharacterName": "Wade Barrett",
+    "AverageTierRanking": null,
+    "ImageUrl": "/Posters/PH-WadeBarrett.png",
+    "PictureFileName": "PH-WadeBarrett",
+    "ReccomndedMoveSet": "N/A"
+  },
+  {
+    "classType": 4,
+    "CharacterName": "A J Styles",
+    "AverageTierRanking": null,
+    "ImageUrl": "/Posters/SHO-AJStyles.png",
+    "PictureFileName": "SHO-AJStyles",
+    "ReccomndedMoveSet": "N/A"
+  },
+  {
+    "classType": 4,
+    "CharacterName": "Andre",
+    "AverageTierRanking": null,
+    "ImageUrl": "/Posters/SHO-Andre.png",
+    "PictureFileName": "SHO-Andre",
+    "ReccomndedMoveSet": "N/A"
+  },
+  {
+    "classType": 4,
+    "CharacterName": "Big E",
+    "AverageTierRanking": null,
+    "ImageUrl": "/Posters/SHO-BigE.png",
+    "PictureFileName": "SHO-BigE",
+    "ReccomndedMoveSet": "N/A"
+  },
+  {
+    "classType": 4,
+    "CharacterName": "Big Show",
+    "AverageTierRanking": null,
+    "ImageUrl": "/Posters/SHO-BigShow.png",
+    "PictureFileName": "SHO-BigShow",
+    "ReccomndedMoveSet": "N/A"
+  },
+  {
+    "classType": 4,
+    "CharacterName": "Bobby Roode",
+    "AverageTierRanking": null,
+    "ImageUrl": "/Posters/SHO-BobbyRoode.png",
+    "PictureFileName": "SHO-BobbyRoode",
+    "ReccomndedMoveSet": "N/A"
+  },
+  {
+    "classType": 4,
+    "CharacterName": "Booker T",
+    "AverageTierRanking": null,
+    "ImageUrl": "/Posters/SHO-BookerT.png",
+    "PictureFileName": "SHO-BookerT",
+    "ReccomndedMoveSet": "N/A"
+  },
+  {
+    "classType": 4,
+    "CharacterName": "Brie Bella",
+    "AverageTierRanking": null,
+    "ImageUrl": "/Posters/SHO-BrieBella.png",
+    "PictureFileName": "SHO-BrieBella",
+    "ReccomndedMoveSet": "N/A"
+  },
+  {
+    "classType": 4,
+    "CharacterName": "Brutus Beefcake",
+    "AverageTierRanking": null,
+    "ImageUrl": "/Posters/SHO-BrutusBeefcake.png",
+    "PictureFileName": "SHO-BrutusBeefcake",
+    "ReccomndedMoveSet": "N/A"
+  },
+  {
+    "classType": 4,
+    "CharacterName": "Bubba Ray Dudley",
+    "AverageTierRanking": null,
+    "ImageUrl": "/Posters/SHO-BubbaRayDudley.png",
+    "PictureFileName": "SHO-BubbaRayDudley",
+    "ReccomndedMoveSet": "N/A"
+  },
+  {
+    "classType": 4,
+    "CharacterName": "Charlotte Flair",
+    "AverageTierRanking": null,
+    "ImageUrl": "/Posters/SHO-CharlotteFlair.png",
+    "PictureFileName": "SHO-CharlotteFlair",
+    "ReccomndedMoveSet": "N/A"
+  },
+  {
+    "classType": 4,
+    "CharacterName": "Curt Hennig",
+    "AverageTierRanking": null,
+    "ImageUrl": "/Posters/SHO-CurtHennig.png",
+    "PictureFileName": "SHO-CurtHennig",
+    "ReccomndedMoveSet": "N/A"
+  },
+  {
+    "classType": 4,
+    "CharacterName": "D D P",
+    "AverageTierRanking": null,
+    "ImageUrl": "/Posters/SHO-DDP.png",
+    "PictureFileName": "SHO-DDP",
+    "ReccomndedMoveSet": "N/A"
+  },
+  {
+    "classType": 4,
+    "CharacterName": "Diesel",
+    "AverageTierRanking": null,
+    "ImageUrl": "/Posters/SHO-Diesel.png",
+    "PictureFileName": "SHO-Diesel",
+    "ReccomndedMoveSet": "N/A"
+  },
+  {
+    "classType": 4,
+    "CharacterName": "Dolph Ziggler",
+    "AverageTierRanking": null,
+    "ImageUrl": "/Posters/SHO-DolphZiggler.png",
+    "PictureFileName": "SHO-DolphZiggler",
+    "ReccomndedMoveSet": "N/A"
+  },
+  {
+    "classType": 4,
+    "CharacterName": "Dusty Rhodes",
+    "AverageTierRanking": null,
+    "ImageUrl": "/Posters/SHO-DustyRhodes.png",
+    "PictureFileName": "SHO-DustyRhodes",
+    "ReccomndedMoveSet": "N/A"
+  },
+  {
+    "classType": 4,
+    "CharacterName": "Enzo Amore",
+    "AverageTierRanking": null,
+    "ImageUrl": "/Posters/SHO-EnzoAmore.png",
+    "PictureFileName": "SHO-EnzoAmore",
+    "ReccomndedMoveSet": "N/A"
+  },
+  {
+    "classType": 4,
+    "CharacterName": "Fandango",
+    "AverageTierRanking": null,
+    "ImageUrl": "/Posters/SHO-Fandango.png",
+    "PictureFileName": "SHO-Fandango",
+    "ReccomndedMoveSet": "N/A"
+  },
+  {
+    "classType": 4,
+    "CharacterName": "Godfather",
+    "AverageTierRanking": null,
+    "ImageUrl": "/Posters/SHO-Godfather.png",
+    "PictureFileName": "SHO-Godfather",
+    "ReccomndedMoveSet": "N/A"
+  },
+  {
+    "classType": 4,
+    "CharacterName": "Hacksaw",
+    "AverageTierRanking": null,
+    "ImageUrl": "/Posters/SHO-Hacksaw.png",
+    "PictureFileName": "SHO-Hacksaw",
+    "ReccomndedMoveSet": "N/A"
+  },
+  {
+    "classType": 4,
+    "CharacterName": "Jason Jordan",
+    "AverageTierRanking": null,
+    "ImageUrl": "/Posters/SHO-JasonJordan.png",
+    "PictureFileName": "SHO-JasonJordan",
+    "ReccomndedMoveSet": "N/A"
+  },
+  {
+    "classType": 4,
+    "CharacterName": "John Cena",
+    "AverageTierRanking": null,
+    "ImageUrl": "/Posters/SHO-JohnCena.png",
+    "PictureFileName": "SHO-JohnCena",
+    "ReccomndedMoveSet": "N/A"
+  },
+  {
+    "classType": 4,
+    "CharacterName": "Junkyard Dog",
+    "AverageTierRanking": null,
+    "ImageUrl": "/Posters/SHO-JunkyardDog.png",
+    "PictureFileName": "SHO-JunkyardDog",
+    "ReccomndedMoveSet": "N/A"
+  },
+  {
+    "classType": 4,
+    "CharacterName": "Kane",
+    "AverageTierRanking": null,
+    "ImageUrl": "/Posters/SHO-Kane.png",
+    "PictureFileName": "SHO-Kane",
+    "ReccomndedMoveSet": "N/A"
+  },
+  {
+    "classType": 4,
+    "CharacterName": "Macho Man",
+    "AverageTierRanking": null,
+    "ImageUrl": "/Posters/SHO-MachoMan.png",
+    "PictureFileName": "SHO-MachoMan",
+    "ReccomndedMoveSet": "N/A"
+  },
+  {
+    "classType": 4,
+    "CharacterName": "Mankind",
+    "AverageTierRanking": null,
+    "ImageUrl": "/Posters/SHO-Mankind.png",
+    "PictureFileName": "SHO-Mankind",
+    "ReccomndedMoveSet": "N/A"
+  },
+  {
+    "classType": 4,
+    "CharacterName": "Matt Hardy",
+    "AverageTierRanking": null,
+    "ImageUrl": "/Posters/SHO-MattHardy.png",
+    "PictureFileName": "SHO-MattHardy",
+    "ReccomndedMoveSet": "N/A"
+  },
+  {
+    "classType": 4,
+    "CharacterName": "Paige",
+    "AverageTierRanking": null,
+    "ImageUrl": "/Posters/SHO-Paige.png",
+    "PictureFileName": "SHO-Paige",
+    "ReccomndedMoveSet": "N/A"
+  },
+  {
+    "classType": 4,
+    "CharacterName": "Randy Orton",
+    "AverageTierRanking": null,
+    "ImageUrl": "/Posters/SHO-RandyOrton.png",
+    "PictureFileName": "SHO-RandyOrton",
+    "ReccomndedMoveSet": "N/A"
+  },
+  {
+    "classType": 4,
+    "CharacterName": "Ric Flair",
+    "AverageTierRanking": null,
+    "ImageUrl": "/Posters/SHO-RicFlair.png",
+    "PictureFileName": "SHO-RicFlair",
+    "ReccomndedMoveSet": "N/A"
+  },
+  {
+    "classType": 4,
+    "CharacterName": "Ricochet",
+    "AverageTierRanking": null,
+    "ImageUrl": "/Posters/SHO-Ricochet.png",
+    "PictureFileName": "SHO-Ricochet",
+    "ReccomndedMoveSet": "N/A"
+  },
+  {
+    "classType": 4,
+    "CharacterName": "Rikishi",
+    "AverageTierRanking": null,
+    "ImageUrl": "/Posters/SHO-Rikishi.png",
+    "PictureFileName": "SHO-Rikishi",
+    "ReccomndedMoveSet": "N/A"
+  },
+  {
+    "classType": 4,
+    "CharacterName": "Rock",
+    "AverageTierRanking": null,
+    "ImageUrl": "/Posters/SHO-Rock.png",
+    "PictureFileName": "SHO-Rock",
+    "ReccomndedMoveSet": "N/A"
+  },
+  {
+    "classType": 4,
+    "CharacterName": "Sasha Banks",
+    "AverageTierRanking": null,
+    "ImageUrl": "/Posters/SHO-SashaBanks.png",
+    "PictureFileName": "SHO-SashaBanks",
+    "ReccomndedMoveSet": "N/A"
+  },
+  {
+    "classType": 4,
+    "CharacterName": "Shane Mc Mahon",
+    "AverageTierRanking": null,
+    "ImageUrl": "/Posters/SHO-ShaneMcMahon.png",
+    "PictureFileName": "SHO-ShaneMcMahon",
+    "ReccomndedMoveSet": "N/A"
+  },
+  {
+    "classType": 4,
+    "CharacterName": "Shawn Michaels",
+    "AverageTierRanking": null,
+    "ImageUrl": "/Posters/SHO-ShawnMichaels.png",
+    "PictureFileName": "SHO-ShawnMichaels",
+    "ReccomndedMoveSet": "N/A"
+  },
+  {
+    "classType": 4,
+    "CharacterName": "Steve Austin",
+    "AverageTierRanking": null,
+    "ImageUrl": "/Posters/SHO-SteveAustin.png",
+    "PictureFileName": "SHO-SteveAustin",
+    "ReccomndedMoveSet": "N/A"
+  },
+  {
+    "classType": 4,
+    "CharacterName": "Sting",
+    "AverageTierRanking": null,
+    "ImageUrl": "/Posters/SHO-Sting.png",
+    "PictureFileName": "SHO-Sting",
+    "ReccomndedMoveSet": "N/A"
+  },
+  {
+    "classType": 4,
+    "CharacterName": "The Fiend",
+    "AverageTierRanking": null,
+    "ImageUrl": "/Posters/SHO-TheFiend.png",
+    "PictureFileName": "SHO-TheFiend",
+    "ReccomndedMoveSet": "N/A"
+  },
+  {
+    "classType": 4,
+    "CharacterName": "Triple H",
+    "AverageTierRanking": null,
+    "ImageUrl": "/Posters/SHO-TripleH.png",
+    "PictureFileName": "SHO-TripleH",
+    "ReccomndedMoveSet": "N/A"
+  },
+  {
+    "classType": 4,
+    "CharacterName": "Typhoon",
+    "AverageTierRanking": null,
+    "ImageUrl": "/Posters/SHO-Typhoon.png",
+    "PictureFileName": "SHO-Typhoon",
+    "ReccomndedMoveSet": "N/A"
+  },
+  {
+    "classType": 4,
+    "CharacterName": "Ultimate Warrior",
+    "AverageTierRanking": null,
+    "ImageUrl": "/Posters/SHO-UltimateWarrior.png",
+    "PictureFileName": "SHO-UltimateWarrior",
+    "ReccomndedMoveSet": "N/A"
+  },
+  {
+    "classType": 4,
+    "CharacterName": "Undertaker",
+    "AverageTierRanking": null,
+    "ImageUrl": "/Posters/SHO-Undertaker.png",
+    "PictureFileName": "SHO-Undertaker",
+    "ReccomndedMoveSet": "N/A"
+  },
+  {
+    "classType": 4,
+    "CharacterName": "Wendi Richter",
+    "AverageTierRanking": null,
+    "ImageUrl": "/Posters/SHO-WendiRichter.png",
+    "PictureFileName": "SHO-WendiRichter",
+    "ReccomndedMoveSet": "N/A"
+  },
+  {
+    "classType": 4,
+    "CharacterName": "Yokozuna",
+    "AverageTierRanking": null,
+    "ImageUrl": "/Posters/SHO-Yokozuna.png",
+    "PictureFileName": "SHO-Yokozuna",
+    "ReccomndedMoveSet": "N/A"
+  },
+  {
+    "classType": 5,
+    "CharacterName": "Aleister Black",
+    "AverageTierRanking": null,
+    "ImageUrl": "/Posters/STK-AleisterBlack.png",
+    "PictureFileName": "STK-AleisterBlack",
+    "ReccomndedMoveSet": "N/A"
+  },
+  {
+    "classType": 5,
+    "CharacterName": "Anvil",
+    "AverageTierRanking": null,
+    "ImageUrl": "/Posters/STK-Anvil.png",
+    "PictureFileName": "STK-Anvil",
+    "ReccomndedMoveSet": "N/A"
+  },
+  {
+    "classType": 5,
+    "CharacterName": "Baron Corbin",
+    "AverageTierRanking": null,
+    "ImageUrl": "/Posters/STK-BaronCorbin.png",
+    "PictureFileName": "STK-BaronCorbin",
+    "ReccomndedMoveSet": "N/A"
+  },
+  {
+    "classType": 5,
+    "CharacterName": "Big Bossman",
+    "AverageTierRanking": null,
+    "ImageUrl": "/Posters/STK-BigBossman.png",
+    "PictureFileName": "STK-BigBossman",
+    "ReccomndedMoveSet": "N/A"
+  },
+  {
+    "classType": 5,
+    "CharacterName": "Booker T",
+    "AverageTierRanking": null,
+    "ImageUrl": "/Posters/STK-BookerT.png",
+    "PictureFileName": "STK-BookerT",
+    "ReccomndedMoveSet": "N/A"
+  },
+  {
+    "classType": 5,
+    "CharacterName": "Bray Wyatt",
+    "AverageTierRanking": null,
+    "ImageUrl": "/Posters/STK-BrayWyatt.png",
+    "PictureFileName": "STK-BrayWyatt",
+    "ReccomndedMoveSet": "N/A"
+  },
+  {
+    "classType": 5,
+    "CharacterName": "Bret Hart",
+    "AverageTierRanking": null,
+    "ImageUrl": "/Posters/STK-BretHart.png",
+    "PictureFileName": "STK-BretHart",
+    "ReccomndedMoveSet": "N/A"
+  },
+  {
+    "classType": 5,
+    "CharacterName": "Brock Lesnar",
+    "AverageTierRanking": null,
+    "ImageUrl": "/Posters/STK-BrockLesnar.png",
+    "PictureFileName": "STK-BrockLesnar",
+    "ReccomndedMoveSet": "N/A"
+  },
+  {
+    "classType": 5,
+    "CharacterName": "Dean Ambrose",
+    "AverageTierRanking": null,
+    "ImageUrl": "/Posters/STK-DeanAmbrose.png",
+    "PictureFileName": "STK-DeanAmbrose",
+    "ReccomndedMoveSet": "N/A"
+  },
+  {
+    "classType": 5,
+    "CharacterName": "Dude Love",
+    "AverageTierRanking": null,
+    "ImageUrl": "/Posters/STK-DudeLove.png",
+    "PictureFileName": "STK-DudeLove",
+    "ReccomndedMoveSet": "N/A"
+  },
+  {
+    "classType": 5,
+    "CharacterName": "Dvon Dudley",
+    "AverageTierRanking": null,
+    "ImageUrl": "/Posters/STK-DvonDudley.png",
+    "PictureFileName": "STK-DvonDudley",
+    "ReccomndedMoveSet": "N/A"
+  },
+  {
+    "classType": 5,
+    "CharacterName": "Finn Balor",
+    "AverageTierRanking": null,
+    "ImageUrl": "/Posters/STK-FinnBalor.png",
+    "PictureFileName": "STK-FinnBalor",
+    "ReccomndedMoveSet": "N/A"
+  },
+  {
+    "classType": 5,
+    "CharacterName": "John Cena",
+    "AverageTierRanking": null,
+    "ImageUrl": "/Posters/STK-JohnCena.png",
+    "PictureFileName": "STK-JohnCena",
+    "ReccomndedMoveSet": "N/A"
+  },
+  {
+    "classType": 5,
+    "CharacterName": "Kane",
+    "AverageTierRanking": null,
+    "ImageUrl": "/Posters/STK-Kane.png",
+    "PictureFileName": "STK-Kane",
+    "ReccomndedMoveSet": "N/A"
+  },
+  {
+    "classType": 5,
+    "CharacterName": "Karl Anderson",
+    "AverageTierRanking": null,
+    "ImageUrl": "/Posters/STK-KarlAnderson.png",
+    "PictureFileName": "STK-KarlAnderson",
+    "ReccomndedMoveSet": "N/A"
+  },
+  {
+    "classType": 5,
+    "CharacterName": "Ken Shamrock",
+    "AverageTierRanking": null,
+    "ImageUrl": "/Posters/STK-KenShamrock.png",
+    "PictureFileName": "STK-KenShamrock",
+    "ReccomndedMoveSet": "N/A"
+  },
+  {
+    "classType": 5,
+    "CharacterName": "Kevin Nash",
+    "AverageTierRanking": null,
+    "ImageUrl": "/Posters/STK-KevinNash.png",
+    "PictureFileName": "STK-KevinNash",
+    "ReccomndedMoveSet": "N/A"
+  },
+  {
+    "classType": 5,
+    "CharacterName": "Kevin Owens",
+    "AverageTierRanking": null,
+    "ImageUrl": "/Posters/STK-KevinOwens.png",
+    "PictureFileName": "STK-KevinOwens",
+    "ReccomndedMoveSet": "N/A"
+  },
+  {
+    "classType": 5,
+    "CharacterName": "Luke Harper",
+    "AverageTierRanking": null,
+    "ImageUrl": "/Posters/STK-LukeHarper.jpg",
+    "PictureFileName": "STK-LukeHarper",
+    "ReccomndedMoveSet": "N/A"
+  },
+  {
+    "classType": 5,
+    "CharacterName": "Mister T",
+    "AverageTierRanking": null,
+    "ImageUrl": "/Posters/STK-MisterT.png",
+    "PictureFileName": "STK-MisterT",
+    "ReccomndedMoveSet": "N/A"
+  },
+  {
+    "classType": 5,
+    "CharacterName": "Nikolai Volkoff",
+    "AverageTierRanking": null,
+    "ImageUrl": "/Posters/STK-NikolaiVolkoff.png",
+    "PictureFileName": "STK-NikolaiVolkoff",
+    "ReccomndedMoveSet": "N/A"
+  },
+  {
+    "classType": 5,
+    "CharacterName": "Paige",
+    "AverageTierRanking": null,
+    "ImageUrl": "/Posters/STK-Paige.png",
+    "PictureFileName": "STK-Paige",
+    "ReccomndedMoveSet": "N/A"
+  },
+  {
+    "classType": 5,
+    "CharacterName": "Papa Shango",
+    "AverageTierRanking": null,
+    "ImageUrl": "/Posters/STK-PapaShango.png",
+    "PictureFileName": "STK-PapaShango",
+    "ReccomndedMoveSet": "N/A"
+  },
+  {
+    "classType": 5,
+    "CharacterName": "Ric Flair",
+    "AverageTierRanking": null,
+    "ImageUrl": "/Posters/STK-RicFlair.png",
+    "PictureFileName": "STK-RicFlair",
+    "ReccomndedMoveSet": "N/A"
+  },
+  {
+    "classType": 5,
+    "CharacterName": "Ricky Steamboat",
+    "AverageTierRanking": null,
+    "ImageUrl": "/Posters/STK-RickySteamboat.png",
+    "PictureFileName": "STK-RickySteamboat",
+    "ReccomndedMoveSet": "N/A"
+  },
+  {
+    "classType": 5,
+    "CharacterName": "Rock",
+    "AverageTierRanking": null,
+    "ImageUrl": "/Posters/STK-Rock.png",
+    "PictureFileName": "STK-Rock",
+    "ReccomndedMoveSet": "N/A"
+  },
+  {
+    "classType": 5,
+    "CharacterName": "Ronda Rousey",
+    "AverageTierRanking": null,
+    "ImageUrl": "/Posters/STK-RondaRousey.png",
+    "PictureFileName": "STK-RondaRousey",
+    "ReccomndedMoveSet": "N/A"
+  },
+  {
+    "classType": 5,
+    "CharacterName": "Scott Hall",
+    "AverageTierRanking": null,
+    "ImageUrl": "/Posters/STK-ScottHall.png",
+    "PictureFileName": "STK-ScottHall",
+    "ReccomndedMoveSet": "N/A"
+  },
+  {
+    "classType": 5,
+    "CharacterName": "Seth Rollins",
+    "AverageTierRanking": null,
+    "ImageUrl": "/Posters/STK-SethRollins.png",
+    "PictureFileName": "STK-SethRollins",
+    "ReccomndedMoveSet": "N/A"
+  },
+  {
+    "classType": 5,
+    "CharacterName": "Sgt Slaughter H O F",
+    "AverageTierRanking": null,
+    "ImageUrl": "/Posters/STK-SgtSlaughterHOF.png",
+    "PictureFileName": "STK-SgtSlaughterHOF",
+    "ReccomndedMoveSet": "N/A"
+  },
+  {
+    "classType": 5,
+    "CharacterName": "Shinsuke Nakamura",
+    "AverageTierRanking": null,
+    "ImageUrl": "/Posters/STK-ShinsukeNakamura.png",
+    "PictureFileName": "STK-ShinsukeNakamura",
+    "ReccomndedMoveSet": "N/A"
+  },
+  {
+    "classType": 5,
+    "CharacterName": "Sting",
+    "AverageTierRanking": null,
+    "ImageUrl": "/Posters/STK-Sting.png",
+    "PictureFileName": "STK-Sting",
+    "ReccomndedMoveSet": "N/A"
+  },
+  {
+    "classType": 5,
+    "CharacterName": "Sycho Sid",
+    "AverageTierRanking": null,
+    "ImageUrl": "/Posters/STK-SychoSid.png",
+    "PictureFileName": "STK-SychoSid",
+    "ReccomndedMoveSet": "N/A"
+  },
+  {
+    "classType": 5,
+    "CharacterName": "Ted DiBiase",
+    "AverageTierRanking": null,
+    "ImageUrl": "/Posters/STK-TedDiBiase.png",
+    "PictureFileName": "STK-TedDiBiase",
+    "ReccomndedMoveSet": "N/A"
+  },
+  {
+    "classType": 5,
+    "CharacterName": "Triple H",
+    "AverageTierRanking": null,
+    "ImageUrl": "/Posters/STK-TripleH.png",
+    "PictureFileName": "STK-TripleH",
+    "ReccomndedMoveSet": "N/A"
+  },
+  {
+    "classType": 5,
+    "CharacterName": "Trish Stratus",
+    "AverageTierRanking": null,
+    "ImageUrl": "/Posters/STK-TrishStratus.png",
+    "PictureFileName": "STK-TrishStratus",
+    "ReccomndedMoveSet": "N/A"
+  },
+  {
+    "classType": 5,
+    "CharacterName": "Breeze",
+    "AverageTierRanking": null,
+    "ImageUrl": "/Posters/STK-Tyler-Breeze.png",
+    "PictureFileName": "STK-Tyler-Breeze",
+    "ReccomndedMoveSet": "N/A"
+  },
+  {
+    "classType": 5,
+    "CharacterName": "Undertaker",
+    "AverageTierRanking": null,
+    "ImageUrl": "/Posters/STK-Undertaker.png",
+    "PictureFileName": "STK-Undertaker",
+    "ReccomndedMoveSet": "N/A"
+  },
+  {
+    "classType": 5,
+    "CharacterName": "Vince Mc Mahon",
+    "AverageTierRanking": null,
+    "ImageUrl": "/Posters/STK-VinceMcMahon.png",
+    "PictureFileName": "STK-VinceMcMahon",
+    "ReccomndedMoveSet": "N/A"
+  },
+  {
+    "classType": 3,
+    "CharacterName": "Alberto Del Rio",
+    "AverageTierRanking": null,
+    "ImageUrl": "/Posters/TECH-AlbertoDelRio.png",
+    "PictureFileName": "TECH-AlbertoDelRio",
+    "ReccomndedMoveSet": "N/A"
+  },
+  {
+    "classType": 3,
+    "CharacterName": "Aleister Black",
+    "AverageTierRanking": null,
+    "ImageUrl": "/Posters/TECH-AleisterBlack.png",
+    "PictureFileName": "TECH-AleisterBlack",
+    "ReccomndedMoveSet": "N/A"
+  },
+  {
+    "classType": 3,
+    "CharacterName": "Asuka",
+    "AverageTierRanking": null,
+    "ImageUrl": "/Posters/TECH-Asuka.png",
+    "PictureFileName": "TECH-Asuka",
+    "ReccomndedMoveSet": "N/A"
+  },
+  {
+    "classType": 3,
+    "CharacterName": "Booker T",
+    "AverageTierRanking": null,
+    "ImageUrl": "/Posters/TECH-BookerT.png",
+    "PictureFileName": "TECH-BookerT",
+    "ReccomndedMoveSet": "N/A"
+  },
+  {
+    "classType": 3,
+    "CharacterName": "Bret Hart",
+    "AverageTierRanking": null,
+    "ImageUrl": "/Posters/TECH-BretHart.png",
+    "PictureFileName": "TECH-BretHart",
+    "ReccomndedMoveSet": "N/A"
+  },
+  {
+    "classType": 3,
+    "CharacterName": "Bruno Sammartino",
+    "AverageTierRanking": null,
+    "ImageUrl": "/Posters/TECH-BrunoSammartino.png",
+    "PictureFileName": "TECH-BrunoSammartino",
+    "ReccomndedMoveSet": "N/A"
+  },
+  {
+    "classType": 3,
+    "CharacterName": "Cesaro",
+    "AverageTierRanking": null,
+    "ImageUrl": "/Posters/TECH-Cesaro.png",
+    "PictureFileName": "TECH-Cesaro",
+    "ReccomndedMoveSet": "N/A"
+  },
+  {
+    "classType": 3,
+    "CharacterName": "Chad Gable",
+    "AverageTierRanking": null,
+    "ImageUrl": "/Posters/TECH-ChadGable.png",
+    "PictureFileName": "TECH-ChadGable",
+    "ReccomndedMoveSet": "N/A"
+  },
+  {
+    "classType": 3,
+    "CharacterName": "Chris Jericho",
+    "AverageTierRanking": null,
+    "ImageUrl": "/Posters/TECH-ChrisJericho.png",
+    "PictureFileName": "TECH-ChrisJericho",
+    "ReccomndedMoveSet": "N/A"
+  },
+  {
+    "classType": 3,
+    "CharacterName": "D D P",
+    "AverageTierRanking": null,
+    "ImageUrl": "/Posters/TECH-DDP.png",
+    "PictureFileName": "TECH-DDP",
+    "ReccomndedMoveSet": "N/A"
+  },
+  {
+    "classType": 3,
+    "CharacterName": "Dean Ambrose",
+    "AverageTierRanking": null,
+    "ImageUrl": "/Posters/TECH-DeanAmbrose.png",
+    "PictureFileName": "TECH-DeanAmbrose",
+    "ReccomndedMoveSet": "N/A"
+  },
+  {
+    "classType": 3,
+    "CharacterName": "Doink",
+    "AverageTierRanking": null,
+    "ImageUrl": "/Posters/TECH-Doink.png",
+    "PictureFileName": "TECH-Doink",
+    "ReccomndedMoveSet": "N/A"
+  },
+  {
+    "classType": 3,
+    "CharacterName": "Eddie Guerrero",
+    "AverageTierRanking": null,
+    "ImageUrl": "/Posters/TECH-EddieGuerrero.png",
+    "PictureFileName": "TECH-EddieGuerrero",
+    "ReccomndedMoveSet": "N/A"
+  },
+  {
+    "classType": 3,
+    "CharacterName": "Finn Balor",
+    "AverageTierRanking": null,
+    "ImageUrl": "/Posters/TECH-FinnBalor.png",
+    "PictureFileName": "TECH-FinnBalor",
+    "ReccomndedMoveSet": "N/A"
+  },
+  {
+    "classType": 3,
+    "CharacterName": "Goldust",
+    "AverageTierRanking": null,
+    "ImageUrl": "/Posters/TECH-Goldust.png",
+    "PictureFileName": "TECH-Goldust",
+    "ReccomndedMoveSet": "N/A"
+  },
+  {
+    "classType": 3,
+    "CharacterName": "Jake The Snake",
+    "AverageTierRanking": null,
+    "ImageUrl": "/Posters/TECH-JakeTheSnake.png",
+    "PictureFileName": "TECH-JakeTheSnake",
+    "ReccomndedMoveSet": "N/A"
+  },
+  {
+    "classType": 3,
+    "CharacterName": "Johnny Gargano",
+    "AverageTierRanking": null,
+    "ImageUrl": "/Posters/TECH-JohnnyGargano.png",
+    "PictureFileName": "TECH-JohnnyGargano",
+    "ReccomndedMoveSet": "N/A"
+  },
+  {
+    "classType": 3,
+    "CharacterName": "Kevin Owens",
+    "AverageTierRanking": null,
+    "ImageUrl": "/Posters/TECH-KevinOwens.png",
+    "PictureFileName": "TECH-KevinOwens",
+    "ReccomndedMoveSet": "N/A"
+  },
+  {
+    "classType": 3,
+    "CharacterName": "Kofi Kingston",
+    "AverageTierRanking": null,
+    "ImageUrl": "/Posters/TECH-KofiKingston.png",
+    "PictureFileName": "TECH-KofiKingston",
+    "ReccomndedMoveSet": "N/A"
+  },
+  {
+    "classType": 3,
+    "CharacterName": "Kurt Angle",
+    "AverageTierRanking": null,
+    "ImageUrl": "/Posters/TECH-KurtAngle.png",
+    "PictureFileName": "TECH-KurtAngle",
+    "ReccomndedMoveSet": "N/A"
+  },
+  {
+    "classType": 3,
+    "CharacterName": "Lita",
+    "AverageTierRanking": null,
+    "ImageUrl": "/Posters/TECH-Lita.png",
+    "PictureFileName": "TECH-Lita",
+    "ReccomndedMoveSet": "N/A"
+  },
+  {
+    "classType": 3,
+    "CharacterName": "Paul Orndorff",
+    "AverageTierRanking": null,
+    "ImageUrl": "/Posters/TECH-PaulOrndorff.png",
+    "PictureFileName": "TECH-PaulOrndorff",
+    "ReccomndedMoveSet": "N/A"
+  },
+  {
+    "classType": 3,
+    "CharacterName": "Randy Orton",
+    "AverageTierRanking": null,
+    "ImageUrl": "/Posters/TECH-RandyOrton.png",
+    "PictureFileName": "TECH-RandyOrton",
+    "ReccomndedMoveSet": "N/A"
+  },
+  {
+    "classType": 3,
+    "CharacterName": "Rick Rude",
+    "AverageTierRanking": null,
+    "ImageUrl": "/Posters/TECH-RickRude.png",
+    "PictureFileName": "TECH-RickRude",
+    "ReccomndedMoveSet": "N/A"
+  },
+  {
+    "classType": 3,
+    "CharacterName": "Samoa Joe",
+    "AverageTierRanking": null,
+    "ImageUrl": "/Posters/TECH-SamoaJoe.png",
+    "PictureFileName": "TECH-SamoaJoe",
+    "ReccomndedMoveSet": "N/A"
+  },
+  {
+    "classType": 3,
+    "CharacterName": "Shawn Michaels",
+    "AverageTierRanking": null,
+    "ImageUrl": "/Posters/TECH-ShawnMichaels.png",
+    "PictureFileName": "TECH-ShawnMichaels",
+    "ReccomndedMoveSet": "N/A"
+  },
+  {
+    "classType": 3,
+    "CharacterName": "Stardust",
+    "AverageTierRanking": null,
+    "ImageUrl": "/Posters/TECH-Stardust.png",
+    "PictureFileName": "TECH-Stardust",
+    "ReccomndedMoveSet": "N/A"
+  },
+  {
+    "classType": 3,
+    "CharacterName": "Sting",
+    "AverageTierRanking": null,
+    "ImageUrl": "/Posters/TECH-Sting.png",
+    "PictureFileName": "TECH-Sting",
+    "ReccomndedMoveSet": "N/A"
+  },
+  {
+    "classType": 3,
+    "CharacterName": "Ted Di Biase",
+    "AverageTierRanking": null,
+    "ImageUrl": "/Posters/TECH-TedDiBiase.png",
+    "PictureFileName": "TECH-TedDiBiase",
+    "ReccomndedMoveSet": "N/A"
+  },
+  {
+    "classType": 3,
+    "CharacterName": "Tommaso Ciampa",
+    "AverageTierRanking": null,
+    "ImageUrl": "/Posters/TECH-TommasoCiampa.png",
+    "PictureFileName": "TECH-TommasoCiampa",
+    "ReccomndedMoveSet": "N/A"
+  },
+  {
+    "classType": 3,
+    "CharacterName": "Triple H",
+    "AverageTierRanking": null,
+    "ImageUrl": "/Posters/TECH-TripleH.png",
+    "PictureFileName": "TECH-TripleH",
+    "ReccomndedMoveSet": "N/A"
+  },
+  {
+    "classType": 3,
+    "CharacterName": "Undertaker",
+    "AverageTierRanking": null,
+    "ImageUrl": "/Posters/TECH-Undertaker.png",
+    "PictureFileName": "TECH-Undertaker",
+    "ReccomndedMoveSet": "N/A"
+  },
+  {
+    "classType": 1,
+    "CharacterName": "Andre",
+    "AverageTierRanking": null,
+    "ImageUrl": "/Posters/TRK-Andre.png",
+    "PictureFileName": "TRK-Andre",
+    "ReccomndedMoveSet": "N/A"
+  },
+  {
+    "classType": 1,
+    "CharacterName": "Arn Anderson",
+    "AverageTierRanking": null,
+    "ImageUrl": "/Posters/TRK-ArnAnderson.png",
+    "PictureFileName": "TRK-ArnAnderson",
+    "ReccomndedMoveSet": "N/A"
+  },
+  {
+    "classType": 1,
+    "CharacterName": "Big E",
+    "AverageTierRanking": null,
+    "ImageUrl": "/Posters/TRK-BigE.png",
+    "PictureFileName": "TRK-BigE",
+    "ReccomndedMoveSet": "N/A"
+  },
+  {
+    "classType": 1,
+    "CharacterName": "Big Show",
+    "AverageTierRanking": null,
+    "ImageUrl": "/Posters/TRK-BigShow.png",
+    "PictureFileName": "TRK-BigShow",
+    "ReccomndedMoveSet": "N/A"
+  },
+  {
+    "classType": 1,
+    "CharacterName": "Bradshaw",
+    "AverageTierRanking": null,
+    "ImageUrl": "/Posters/TRK-Bradshaw.png",
+    "PictureFileName": "TRK-Bradshaw",
+    "ReccomndedMoveSet": "N/A"
+  },
+  {
+    "classType": 1,
+    "CharacterName": "Bray Wyatt",
+    "AverageTierRanking": null,
+    "ImageUrl": "/Posters/TRK-BrayWyatt.png",
+    "PictureFileName": "TRK-BrayWyatt",
+    "ReccomndedMoveSet": "N/A"
+  },
+  {
+    "classType": 1,
+    "CharacterName": "Bret Hart",
+    "AverageTierRanking": null,
+    "ImageUrl": "/Posters/TRK-BretHart.png",
+    "PictureFileName": "TRK-BretHart",
+    "ReccomndedMoveSet": "N/A"
+  },
+  {
+    "classType": 1,
+    "CharacterName": "Brock Lesnar",
+    "AverageTierRanking": null,
+    "ImageUrl": "/Posters/TRK-BrockLesnar.png",
+    "PictureFileName": "TRK-BrockLesnar",
+    "ReccomndedMoveSet": "N/A"
+  },
+  {
+    "classType": 1,
+    "CharacterName": "Cactus Jack",
+    "AverageTierRanking": null,
+    "ImageUrl": "/Posters/TRK-CactusJack.png",
+    "PictureFileName": "TRK-CactusJack",
+    "ReccomndedMoveSet": "N/A"
+  },
+  {
+    "classType": 1,
+    "CharacterName": "Daniel Bryan",
+    "AverageTierRanking": null,
+    "ImageUrl": "/Posters/TRK-DanielBryan.png",
+    "PictureFileName": "TRK-DanielBryan",
+    "ReccomndedMoveSet": "N/A"
+  },
+  {
+    "classType": 1,
+    "CharacterName": "Dean Ambrose",
+    "AverageTierRanking": null,
+    "ImageUrl": "/Posters/TRK-DeanAmbrose.png",
+    "PictureFileName": "TRK-DeanAmbrose",
+    "ReccomndedMoveSet": "N/A"
+  },
+  {
+    "classType": 1,
+    "CharacterName": "Eddie Guerrero",
+    "AverageTierRanking": null,
+    "ImageUrl": "/Posters/TRK-EddieGuerrero.png",
+    "PictureFileName": "TRK-EddieGuerrero",
+    "ReccomndedMoveSet": "N/A"
+  },
+  {
+    "classType": 1,
+    "CharacterName": "Elias",
+    "AverageTierRanking": null,
+    "ImageUrl": "/Posters/TRK-Elias.png",
+    "PictureFileName": "TRK-Elias",
+    "ReccomndedMoveSet": "N/A"
+  },
+  {
+    "classType": 1,
+    "CharacterName": "Faarooq",
+    "AverageTierRanking": null,
+    "ImageUrl": "/Posters/TRK-Faarooq.png",
+    "PictureFileName": "TRK-Faarooq",
+    "ReccomndedMoveSet": "N/A"
+  },
+  {
+    "classType": 1,
+    "CharacterName": "Gearge Steele",
+    "AverageTierRanking": null,
+    "ImageUrl": "/Posters/TRK-GeargeSteele.png",
+    "PictureFileName": "TRK-GeargeSteele",
+    "ReccomndedMoveSet": "N/A"
+  },
+  {
+    "classType": 1,
+    "CharacterName": "Greg Valentine",
+    "AverageTierRanking": null,
+    "ImageUrl": "/Posters/TRK-GregValentine.png",
+    "PictureFileName": "TRK-GregValentine",
+    "ReccomndedMoveSet": "N/A"
+  },
+  {
+    "classType": 1,
+    "CharacterName": "Honky Tonk Man",
+    "AverageTierRanking": null,
+    "ImageUrl": "/Posters/TRK-HonkyTonkMan.png",
+    "PictureFileName": "TRK-HonkyTonkMan",
+    "ReccomndedMoveSet": "N/A"
+  },
+  {
+    "classType": 1,
+    "CharacterName": "Hulk Hogan",
+    "AverageTierRanking": null,
+    "ImageUrl": "/Posters/TRK-HulkHogan.png",
+    "PictureFileName": "TRK-HulkHogan",
+    "ReccomndedMoveSet": "N/A"
+  },
+  {
+    "classType": 1,
+    "CharacterName": "I R S",
+    "AverageTierRanking": null,
+    "ImageUrl": "/Posters/TRK-IRS.png",
+    "PictureFileName": "TRK-IRS",
+    "ReccomndedMoveSet": "N/A"
+  },
+  {
+    "classType": 1,
+    "CharacterName": "Jerry Lawler",
+    "AverageTierRanking": null,
+    "ImageUrl": "/Posters/TRK-JerryLawler.png",
+    "PictureFileName": "TRK-JerryLawler",
+    "ReccomndedMoveSet": "N/A"
+  },
+  {
+    "classType": 1,
+    "CharacterName": "Jinder Mahal",
+    "AverageTierRanking": null,
+    "ImageUrl": "/Posters/TRK-JinderMahal.png",
+    "PictureFileName": "TRK-JinderMahal",
+    "ReccomndedMoveSet": "N/A"
+  },
+  {
+    "classType": 1,
+    "CharacterName": "John Cena",
+    "AverageTierRanking": null,
+    "ImageUrl": "/Posters/TRK-JohnCena.png",
+    "PictureFileName": "TRK-JohnCena",
+    "ReccomndedMoveSet": "N/A"
+  },
+  {
+    "classType": 1,
+    "CharacterName": "Kairi Sane",
+    "AverageTierRanking": null,
+    "ImageUrl": "/Posters/TRK-KairiSane.png",
+    "PictureFileName": "TRK-KairiSane",
+    "ReccomndedMoveSet": "N/A"
+  },
+  {
+    "classType": 1,
+    "CharacterName": "Kane",
+    "AverageTierRanking": null,
+    "ImageUrl": "/Posters/TRK-Kane.png",
+    "PictureFileName": "TRK-Kane",
+    "ReccomndedMoveSet": "N/A"
+  },
+  {
+    "classType": 1,
+    "CharacterName": "Kevin Owens",
+    "AverageTierRanking": null,
+    "ImageUrl": "/Posters/TRK-KevinOwens.png",
+    "PictureFileName": "TRK-KevinOwens",
+    "ReccomndedMoveSet": "N/A"
+  },
+  {
+    "classType": 1,
+    "CharacterName": "Luke Gallows",
+    "AverageTierRanking": null,
+    "ImageUrl": "/Posters/TRK-LukeGallows.png",
+    "PictureFileName": "TRK-LukeGallows",
+    "ReccomndedMoveSet": "N/A"
+  },
+  {
+    "classType": 1,
+    "CharacterName": "Matt Hardy",
+    "AverageTierRanking": null,
+    "ImageUrl": "/Posters/TRK-MattHardy.png",
+    "PictureFileName": "TRK-MattHardy",
+    "ReccomndedMoveSet": "N/A"
+  },
+  {
+    "classType": 1,
+    "CharacterName": "Miz",
+    "AverageTierRanking": null,
+    "ImageUrl": "/Posters/TRK-Miz.png",
+    "PictureFileName": "TRK-Miz",
+    "ReccomndedMoveSet": "N/A"
+  },
+  {
+    "classType": 1,
+    "CharacterName": "Natalia",
+    "AverageTierRanking": null,
+    "ImageUrl": "/Posters/TRK-Natalia.png",
+    "PictureFileName": "TRK-Natalia",
+    "ReccomndedMoveSet": "N/A"
+  },
+  {
+    "classType": 1,
+    "CharacterName": "Nikki Bella",
+    "AverageTierRanking": null,
+    "ImageUrl": "/Posters/TRK-NikkiBella.png",
+    "PictureFileName": "TRK-NikkiBella",
+    "ReccomndedMoveSet": "N/A"
+  },
+  {
+    "classType": 1,
+    "CharacterName": "Razor Ramon",
+    "AverageTierRanking": null,
+    "ImageUrl": "/Posters/TRK-RazorRamon.png",
+    "PictureFileName": "TRK-RazorRamon",
+    "ReccomndedMoveSet": "N/A"
+  },
+  {
+    "classType": 1,
+    "CharacterName": "Ric Flair",
+    "AverageTierRanking": null,
+    "ImageUrl": "/Posters/TRK-RicFlair.png",
+    "PictureFileName": "TRK-RicFlair",
+    "ReccomndedMoveSet": "N/A"
+  },
+  {
+    "classType": 1,
+    "CharacterName": "Rock",
+    "AverageTierRanking": null,
+    "ImageUrl": "/Posters/TRK-Rock.png",
+    "PictureFileName": "TRK-Rock",
+    "ReccomndedMoveSet": "N/A"
+  },
+  {
+    "classType": 1,
+    "CharacterName": "Roman Reigns",
+    "AverageTierRanking": null,
+    "ImageUrl": "/Posters/TRK-RomanReigns.png",
+    "PictureFileName": "TRK-RomanReigns",
+    "ReccomndedMoveSet": "N/A"
+  },
+  {
+    "classType": 1,
+    "CharacterName": "Sarge",
+    "AverageTierRanking": null,
+    "ImageUrl": "/Posters/TRK-Sarge.png",
+    "PictureFileName": "TRK-Sarge",
+    "ReccomndedMoveSet": "N/A"
+  },
+  {
+    "classType": 1,
+    "CharacterName": "Sasha Banks",
+    "AverageTierRanking": null,
+    "ImageUrl": "/Posters/TRK-SashaBanks.png",
+    "PictureFileName": "TRK-SashaBanks",
+    "ReccomndedMoveSet": "N/A"
+  },
+  {
+    "classType": 1,
+    "CharacterName": "Seth Rollins",
+    "AverageTierRanking": null,
+    "ImageUrl": "/Posters/TRK-SethRollins.png",
+    "PictureFileName": "TRK-SethRollins",
+    "ReccomndedMoveSet": "N/A"
+  },
+  {
+    "classType": 1,
+    "CharacterName": "Sheamus",
+    "AverageTierRanking": null,
+    "ImageUrl": "/Posters/TRK-Sheamus.png",
+    "PictureFileName": "TRK-Sheamus",
+    "ReccomndedMoveSet": "N/A"
+  },
+  {
+    "classType": 1,
+    "CharacterName": "Shinsuke Nakamura",
+    "AverageTierRanking": null,
+    "ImageUrl": "/Posters/TRK-ShinsukeNakamura.png",
+    "PictureFileName": "TRK-ShinsukeNakamura",
+    "ReccomndedMoveSet": "N/A"
+  },
+  {
+    "classType": 1,
+    "CharacterName": "Stephanie Mc Mahon",
+    "AverageTierRanking": null,
+    "ImageUrl": "/Posters/TRK-StephanieMcMahon.png",
+    "PictureFileName": "TRK-StephanieMcMahon",
+    "ReccomndedMoveSet": "N/A"
+  },
+  {
+    "classType": 1,
+    "CharacterName": "Undertaker",
+    "AverageTierRanking": null,
+    "ImageUrl": "/Posters/TRK-Undertaker.png",
+    "PictureFileName": "TRK-Undertaker",
+    "ReccomndedMoveSet": "N/A"
+  },
+  {
+    "classType": 1,
+    "CharacterName": "Velveteen Dream",
+    "AverageTierRanking": null,
+    "ImageUrl": "/Posters/TRK-VelveteenDream.png",
+    "PictureFileName": "TRK-VelveteenDream",
+    "ReccomndedMoveSet": "N/A"
+  },
+  {
+    "classType": 1,
+    "CharacterName": "Xavier Woods",
+    "AverageTierRanking": null,
+    "ImageUrl": "/Posters/TRK-XavierWoods.png",
+    "PictureFileName": "TRK-XavierWoods",
+    "ReccomndedMoveSet": "N/A"
+  }
+]
